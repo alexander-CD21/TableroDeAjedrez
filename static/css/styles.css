@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.titulo{
+    background-color: #ffd9b7;
+    margin:20px 900px 0px 900px;
+    color:red;
+    width: 300px;
+}
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    height: 1000px;
+    width: 1000px;
+    margin:100px 600px 0px 600px;
+    align-content: center;
+
+}
+.color1{
+    background-color:  #ffd9b7;
+    height: 100px;
+    width: 100px;
+
+}
+.color2{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+}
